@@ -146,5 +146,6 @@
     "themeMode": "dark",
     "templateStyle": "dracula"
   },
-  "templateId": "dracula"
+  "templateId": "dracula",
+  "profileSlug": "default"
 }
